@@ -1,2 +1,2 @@
-# dev-tools
+# developer-tools
 Tools that every developer needs.
