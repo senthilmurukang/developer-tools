@@ -1,0 +1,27 @@
+{
+  "name": "developer-tools",
+  "version": "1.0.0",
+  "description": "Tools that every developer needs.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/main/server/app/router.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/senthilmurugang/developer-tools.git"
+  },
+  "keywords": [
+    "dev-tools",
+    "developer-tools"
+  ],
+  "author": "senthilmurukang@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/senthilmurugang/developer-tools/issues"
+  },
+  "homepage": "https://github.com/senthilmurugang/developer-tools#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
